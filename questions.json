@@ -2,12 +2,13 @@
   "questions": [
     {
       "id": 1,
-      "question": "Quelles sont les principales associations étudiantes de l'EPF Montpellier?",
-      "response": ""
+      "question": "Quelles sont les 3 principales associations étudiantes de l'EPF Montpellier?",
+      "response": "BDE, BDS et le BDO"
     },
     {
       "id": 2,
-      "question": "Parle moi de la majeure Energie et Environnement ?"
+      "question": "Parle moi de la majeure Energie et Environnement ?",
+      "response":""
     },
     {
       "id": 3,
@@ -23,7 +24,7 @@
     },
     {
       "id": 6,
-      "question": "Donne moi 3 métiers en sortie de majeur Data."
+      "question": "Donne moi 3 métiers en sortie de majeur Energie."
     },
     {
       "id": 7,
@@ -32,8 +33,11 @@
     
     {
       "id": 8,
-      "question": "Qui est responsable de la majeur Data ?"
+      "question": "En quoi consiste le cours Data Manipulation & Visuation ?"
     },
+    {"id":9,
+    "question":"En quoi consiste les projets de la majeur Energie ?"
+    }
     
   ]
 }
