@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelles sont les principales associations étudiantes de l'EPF Montpellier?",
+      "response": ""
+    },
+    {
+      "id": 2,
+      "question": "Parle moi de la majeure Energie et Environnement ?"
+    },
+    {
+      "id": 3,
+      "question": "Dis moi quelles sont les majeurs de chaque campus ?"
+    },
+    {
+      "id": 4,
+      "question": "Quelles sont les sports proposés par l'EPF Troyes ?"
+    },
+    {
+      "id": 5,
+      "question": "Donne moi 3 métiers en sortie de majeur Data."
+    },
+    {
+      "id": 6,
+      "question": "Donne moi 3 métiers en sortie de majeur Data."
+    },
+    {
+      "id": 7,
+      "question": "Qui est responsable de la majeur Data ?"
+    },
+    
+    {
+      "id": 8,
+      "question": "Qui est responsable de la majeur Data ?"
+    },
+    
+  ]
+}
