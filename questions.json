@@ -2,8 +2,8 @@
   "questions": [
     {
       "id": 1,
-      "question": "Quelles sont les 3 principales associations étudiantes de l'EPF Montpellier?",
-      "response": "BDE, BDS et le BDO"
+      "question": "Quelle est la durée de la majeur Energie et Environnement ?",
+      "response": "2 ans"
     },
     {
       "id": 2,
@@ -12,31 +12,39 @@
     },
     {
       "id": 3,
-      "question": "Dis moi quelles sont les majeurs de chaque campus ?"
+      "question": "Dis moi quelles sont les majeurs de chaque campus ?",
+      "reponse":"Les majeurs de chaque campus sont telles que : Troyes : Ingénierie et architecture durable ; Cachan: Aéronautique et Espace,Engineering Management, Ingénierie du numérique, Ingénerie et Santé, Matériaux et Structure Durable ; Montpellier : Data Engineering, Santé et Environnements"
     },
     {
       "id": 4,
-      "question": "Quelles sont les sports proposés par l'EPF Troyes ?"
+      "question": "Quelle est la langue de la majeur Data Engineering"
+      "response":"Anglais."
     },
     {
       "id": 5,
-      "question": "Donne moi 3 métiers en sortie de majeur Data."
+      "question": "Donne moi les 3 métiers en sortie de majeur Data.",
+      "response":"Data Analyst, Data Scientist &  ML Data Engineer",
+      
     },
     {
       "id": 6,
       "question": "Donne moi 3 métiers en sortie de majeur Energie."
+      "response":"Ingénieur d’étude, Ingénieur de recherche, Chargé de Projet, Chargé d'affaires, Chef de projet, Consultant, Reponsable d'd’exploitation et/ou maintenance"
     },
     {
       "id": 7,
-      "question": "Qui est responsable de la majeur Data ?"
+      "question": "Qui dois-je contacter pour des questions au sujet de la majeur Data ?"
+      "response":"Antoine GADEMER & Rober RAPADAMNABA"
     },
     
     {
       "id": 8,
-      "question": "En quoi consiste le cours Data Manipulation & Visuation ?"
+      "question": "Quelles sont les majeurs de Troyes?",
+      "response": " Ingénierie & Architecture Durable"
     },
     {"id":9,
-    "question":"En quoi consiste les projets de la majeur Energie ?"
+    "question":"Dis moi les noms des projets de la Majeur Energie"
+    "reposnse":"Kynarou, FARMEX, SEGULA TECHNOLOGIES, VH 93, GREnADE, GENSUN"
     }
     
   ]
